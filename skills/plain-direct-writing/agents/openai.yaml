@@ -1,0 +1,7 @@
+interface:
+  display_name: "Plain Direct Writing"
+  short_description: "Replace performative prose with direct writing"
+  default_prompt: "Use $plain-direct-writing to revise this text into plain, direct prose."
+
+policy:
+  allow_implicit_invocation: false

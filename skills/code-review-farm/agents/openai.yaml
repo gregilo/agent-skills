@@ -1,0 +1,6 @@
+interface:
+  display_name: "Code Review Farm"
+  short_description: "Run and combine two independent code reviews"
+  default_prompt: "Use $code-review-farm to review the current branch with both reviewers."
+policy:
+  allow_implicit_invocation: false

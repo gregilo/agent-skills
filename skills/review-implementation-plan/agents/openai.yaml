@@ -1,0 +1,6 @@
+interface:
+  display_name: "Review Implementation Plan"
+  short_description: "Validate an implementation plan against evidence"
+  default_prompt: "Use $review-implementation-plan to review the following implementation plan."
+policy:
+  allow_implicit_invocation: false

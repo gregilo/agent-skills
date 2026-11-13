@@ -1,0 +1,6 @@
+interface:
+  display_name: "Verify Review Comments"
+  short_description: "Verify review comments for correctness and quality"
+  default_prompt: "Use $verify-review-comments to verify the review comments."
+policy:
+  allow_implicit_invocation: false

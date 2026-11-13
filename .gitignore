@@ -1,0 +1,26 @@
+# Zapier-internal skills (kept local only)
+/skills/gitlab-zapier/
+/skills/glean/
+/skills/graylog/
+/skills/jira/
+/skills/rex/
+/skills/slack/
+/skills/zdev/
+/skills/approve-mr/
+/skills/comment-mr/
+/skills/rex-multi-mr/
+/skills/skills-test-review/
+
+# Third-party skills; reinstall from .skill-lock.json
+/skills/find-skills/
+/skills/grill-me/
+/skills/grill-with-docs/
+/skills/grilling/
+/skills/handoff/
+/skills/resolving-merge-conflicts/
+
+# Local agent state
+/.omp/
+
+node_modules/
+.DS_Store
