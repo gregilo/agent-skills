@@ -1,0 +1,6 @@
+interface:
+  display_name: "Draft Review Comments"
+  short_description: "Draft polite MR or PR comments from review findings"
+  default_prompt: "Use $draft-review-comments to draft MR comments for the review findings above."
+policy:
+  allow_implicit_invocation: true
