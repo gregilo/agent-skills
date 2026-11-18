@@ -11,6 +11,10 @@
 /skills/rex-multi-mr/
 /skills/skills-test-review/
 
+# Machine-local skills (depend on the locally installed rex skill)
+/skills/rex-snapshot/
+/skills/rex-restore/
+
 # Third-party skills; reinstall from .skill-lock.json
 /skills/find-skills/
 /skills/grill-me/
